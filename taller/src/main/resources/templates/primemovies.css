@@ -1,0 +1,19 @@
+body{
+    color: white;
+    background-color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.cabecera{
+    text-align: center;
+}
+
+.iniciar{
+    color: white;
+}
+
+.contener{
+    display: inline-block
+    
+}
